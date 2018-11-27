@@ -4,4 +4,4 @@ npm install -g create-react-app
 create-react-app dom-diff
 ```
 ##虚拟dom
-createElement => {type,props,children}
+createElement => {type,props,children}  生成对象
